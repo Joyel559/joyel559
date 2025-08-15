@@ -1,6 +1,6 @@
 I'm Joyel,  majoring in Computer Science 
 
-SQL, Python, devops ,AI,literature , physics 
+SQL, Python, devops ,AI,literature , physics , writing , bad in math cuz im not Ramanujan
 
 📧 [Email me](mailto:johnjoyel0@hotmail.com)
 
