@@ -1,6 +1,6 @@
-I'm Joyel,  majoring in Computer Science 
+I'm Joyel,   Computer Science 
 
-Polymath by accident. , thinks in physics, writes like a poet, and prays math never finds me.
+write me a love letter in graph theory  
 
 📧 [Email me](mailto:johnjoyel0@hotmail.com)
 
